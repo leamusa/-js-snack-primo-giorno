@@ -19,3 +19,15 @@ Dichiaro una variabile radius e le assegno il valore 8. Calcolo quindi il valore
 // Esercizio 3: Modificare il valore di una variabile e stamparlo in console \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 Dichiaro una variabile name e le assegno il valore "Emma". Successivamente, modifico il valore della variabile in "Giorgia" e stampo il nuovo valore in console.
+
+// Esercizio 4 \\\\
+Dichiaro una variabile chiamata temperature e le assegno il valore 22.5. Successivamente, aumento il suo valore di 5 e stampo il nuovo valore in console.
+
+// Esercizio 5: Numeri \\\
+Rispondete in un commento a più righe: Che differenza c'è tra il numero 3.14 e 100 sono diversi? Perchè? Che tipo di dato è uno e che tipo di dato è l'altro?
+(aiutatevi con una ricerca su google per allenare il vostro cerebro)
+
+// Esercizio 6: console \\\
+Per scrivere dentro la nostra console utilizziamo la sua funzione .log() ma se scrivessimo console.info('Il mio messaggio') che differenza c'è? Perche?
+Esistono altri metodi da usare con console. ?
+(aiutatevi con una ricerca su internet per tennere allenate il vostro brain)
