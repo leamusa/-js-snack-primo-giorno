@@ -10,7 +10,7 @@ Ora dichiariamo una costante chiamata PI e le assegnamo il valore 3.14. Successi
 
 // Esercizio 2/B: Tentare di riassegnare un valore a una costante \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-Proviamo a riassegnare un nuovo valore alla costante PI con PI = 3.1416. (non so se si possa fare)
+Proviamo a riassegnare un nuovo valore alla costante PI con PI = 3.1416.
 
 // Esercizio 2/C: Operazioni con variabili e costanti \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
@@ -18,4 +18,4 @@ Dichiaro una variabile radius e le assegno il valore 8. Calcolo quindi il valore
 
 // Esercizio 3: Modificare il valore di una variabile e stamparlo in console \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-Dichiaro una variabile name e le assegno il valore "Carlo". Successivamente, modifico il valore della variabile in "Marco" e stampo il nuovo valore in console.
+Dichiaro una variabile name e le assegno il valore "Emma". Successivamente, modifico il valore della variabile in "Giorgia" e stampo il nuovo valore in console.
